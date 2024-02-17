@@ -11,7 +11,7 @@ The class objects will have the following properties:
 - isImpostor (boolean, generate it random, on creating the object - with a percentage of 30% of being an impostor )
 - isAlive (true)
 
-And the method
+And the methods
 - *eject()* 
     - applicable only to alive players.
     - will log in the console "Player PPP was ejected. He was (or was not) an impostor"
